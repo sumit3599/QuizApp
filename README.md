@@ -4,11 +4,11 @@ Quiz app is a web application where user can take part in online quiz. It consis
 SAMPLE SCREENSHORTS:--
 
 PIC 1:
-![Capture2](https://user-images.githubusercontent.com/81349176/184611439-f224a55f-86f4-482d-a518-15abb39889a2.PNG)
+![Screenshot 2022-08-15 150758](https://user-images.githubusercontent.com/81349176/184613128-bd412365-2256-45d3-93fe-6db386370230.png)
 
 
 PIC 2:
-![Capture](https://user-images.githubusercontent.com/81349176/184611330-abd6c0a0-1399-4ff6-a41d-f016f345a0ea.PNG)
+![Screenshot 2022-08-15 150658](https://user-images.githubusercontent.com/81349176/184613057-76b3dd0b-c8e4-40cb-a4b0-b3567eb39b44.png)
 
 
 
